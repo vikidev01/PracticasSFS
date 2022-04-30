@@ -1,0 +1,12 @@
+package com.clase1;
+
+public class Clase1 {
+
+	public static void main(String[] args) {
+		int x=10, y=20, ;
+		int suma = x+y;
+		System.out.println("La suma es: "+suma);
+
+	}
+
+}

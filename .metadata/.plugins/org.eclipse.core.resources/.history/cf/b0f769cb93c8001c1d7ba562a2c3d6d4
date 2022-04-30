@@ -1,0 +1,21 @@
+package com.clase1;
+
+import java.util.Scanner;
+
+public class Clase {
+
+	public static void main(String[] args) {
+		
+		  Scanner reader = new Scanner(System.in);
+		  int numero2 = reader.nextInt();
+		  int numero1 = reader.nextInt();
+		  
+		  if(numero2>numero1) {
+			   System.out.println(numero2" es el mas grande");
+		  } else {
+			  System.out.println(numero2" es el mas grande");
+		  }
+		 
+	}
+
+}
